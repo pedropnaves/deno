@@ -5,7 +5,7 @@ has no external dependencies.
 
 ### Download and install
 
-[deno_install](https://github.com/denoland/deno_install) provides convenience
+<a href="https://github.com/denoland/deno_install" target="_blank">deno_install</a> provides convenience
 scripts to download and install the binary.
 
 Using Shell (macOS and Linux):
@@ -20,7 +20,7 @@ Using PowerShell (Windows):
 iwr https://deno.land/x/install/install.ps1 -useb | iex
 ```
 
-Using [Scoop](https://scoop.sh/) (Windows):
+Using <a href="https://scoop.sh/" target="_blank">Scoop</a> (Windows):
 
 ```shell
 scoop install deno
