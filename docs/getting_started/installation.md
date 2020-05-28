@@ -5,6 +5,7 @@ has no external dependencies.
 
 ### Download and install
 
+<a href="http://example.com/" target="_blank">example</a>
 <a href="https://github.com/denoland/deno_install" target="_blank">deno_install</a> provides convenience
 scripts to download and install the binary.
 
